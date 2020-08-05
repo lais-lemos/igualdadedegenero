@@ -1,13 +1,14 @@
 .fundo{
     background-color: red;
+    padding: 50px;
 }
 
 body{
-    background-color: silver;
+    background-color: snow;
 }
 h1{
     color: black;
-    padding: 50px;
+    padding-left: 400px;
     background-color: red;
     border: 10px red solid;
     margin: 20px;
@@ -15,7 +16,7 @@ h1{
 
 #t1{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: orangered;
     border: 10px orangered solid;
     margin: 40px;
@@ -23,7 +24,7 @@ h1{
 
 #t2{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: yellow;
     border: 10px yellow solid;
     margin: 40px;
@@ -31,7 +32,7 @@ h1{
 
 #t3{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: chartreuse;
     border: 10px chartreuse solid;
     margin: 40px;
@@ -39,7 +40,7 @@ h1{
 
 #t4{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: dodgerblue;
     border: 10px dodgerblue solid;
     margin: 40px;
@@ -47,7 +48,7 @@ h1{
 
 #t5{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: blue;
     border: 10px blue solid;
     margin: 40px;
@@ -55,13 +56,20 @@ h1{
 
 #t6{
     color: black;
-    padding: 50px;
+    padding-left: 300px;
     background-color: magenta;
     border: 10px magenta solid;
     margin: 40px;
 }
 
 #video{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 400px;
+}
+
+p{
+    padding-left: 300px;
+}
+
+#p1{
+    padding-left: 150;
 }
