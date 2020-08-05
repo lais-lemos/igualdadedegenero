@@ -1,6 +1,7 @@
 .fundo{
     background-color: red;
     padding: 50px;
+    border: 10px black solid;
 }
 
 body{
@@ -10,56 +11,69 @@ h1{
     color: black;
     padding-left: 400px;
     background-color: red;
-    border: 10px red solid;
-    margin: 20px;
+    border: 15px black solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #t1{
     color: black;
     padding-left: 300px;
     background-color: orangered;
-    border: 10px orangered solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #t2{
     color: black;
     padding-left: 300px;
     background-color: yellow;
-    border: 10px yellow solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #t3{
     color: black;
     padding-left: 300px;
     background-color: chartreuse;
-    border: 10px chartreuse solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #t4{
     color: black;
     padding-left: 300px;
     background-color: dodgerblue;
-    border: 10px dodgerblue solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #t5{
     color: black;
     padding-left: 300px;
     background-color: blue;
-    border: 10px blue solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #t6{
     color: black;
     padding-left: 300px;
     background-color: magenta;
-    border: 10px magenta solid;
+    border: 10px black solid;
     margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #video{
@@ -67,9 +81,29 @@ h1{
 }
 
 p{
-    padding-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 200px;
+    color: black;
+    background-color: aqua;
+    border: 5px black solid;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 #p1{
-    padding-left: 150;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    color: black;
+    background-color: aqua;
+    border: 5px black solid;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+#imagem_fundo{
+    background: url("fundo.jpg");
+    height: 500%;
 }
