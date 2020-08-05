@@ -1,5 +1,9 @@
+.fundo{
+    background-color: red;
+}
+
 body{
-    background-color: cyan;
+    background-color: silver;
 }
 h1{
     color: black;
@@ -55,4 +59,9 @@ h1{
     background-color: magenta;
     border: 10px magenta solid;
     margin: 40px;
+}
+
+#video{
+    padding-left: 50px;
+    padding-right: 50px;
 }
