@@ -105,5 +105,23 @@ p{
 
 #imagem_fundo{
     background: url("fundo.jpg");
-    height: 700%;
+    height: 1500%;
+}
+img{
+    padding-left: 350px;
+}
+
+#link{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    color: black;
+    background-color: aqua;
+    border: 5px black solid;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#image{
+    padding-left: 55px;
 }
